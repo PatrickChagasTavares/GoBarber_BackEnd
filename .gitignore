@@ -2,3 +2,4 @@ node_modules
 
 *.pnj
 *.jpg
+.env
